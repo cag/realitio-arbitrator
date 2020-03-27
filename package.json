@@ -1,0 +1,29 @@
+{
+  "name": "realitio-arbitrator",
+  "version": "1.0.0",
+  "description": "A modified Realitio arbitrator contract implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cag/realitio-arbitrator.git"
+  },
+  "keywords": [
+    "smart-contract",
+    "ethereum",
+    "realitio",
+    "arbitrator"
+  ],
+  "author": "",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/cag/realitio-arbitrator/issues"
+  },
+  "homepage": "https://github.com/cag/realitio-arbitrator#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^2.5.0",
+    "truffle": "^5.1.19"
+  }
+}
