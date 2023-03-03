@@ -24,6 +24,6 @@
   "homepage": "https://github.com/cag/realitio-arbitrator#readme",
   "dependencies": {
     "@openzeppelin/contracts": "^2.5.0",
-    "truffle": "^5.1.19"
+    "truffle": "^5.7.9"
   }
 }
